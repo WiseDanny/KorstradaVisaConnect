@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="Visa Business">
+<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+<meta name="author" content="Korstrada Visa Connect">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="Styles.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="Topnav.css">
+<link rel="stylesheet" href="Footerstyle.css">
+</head>
+<body>
+<div class="topnav">
+  <a class="active" href="index.html">Home</a>
+  <div class="dropdown">
+    <button class="dropbtn">Visas 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="Brazil.html">Brazil</a>
+      <a href="Thailand.html">Thailand</a>
+      <a href="Azerbaijan.html">Azerbaijan</a> 
+      <a href="FAQ.html">FAQ</a>
+      <a href="Terms.html">Terms & Conditions</a>
+      <a href="Schedule.html">Schedule Meeting</a>
+    </div>
+ </div>
+  
+  <a href="Aboutus.html">About Us</a>
+  <a href="Payment.html">Payment</a>
+  <a href="Contactus.html">Contact Us</a>
+  <div class="search-container">
+    <form action="search.php">
+      <input type="text" placeholder="Search.." name="search">
+      <button type="submit"><i class="fa fa-search"></i></button>
+    </form>
+  </div>
+</div>
+
+<br><br>
+<p><a href="https://calendly.com/casselldaniel93/30min">Schedule Meeting</a></p>
+<br><br><br>
+<div class="footer">
+<p>&#169; 2025 Korstrada Visa Connect LLC All Rights Reserved.</p>
+</div>
+</body>
+</html> 

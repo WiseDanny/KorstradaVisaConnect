@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="Visa Business">
+<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+<meta name="author" content="Korstrada Visa Connect">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="Styles.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="Topnav.css">
+<link rel="stylesheet" href="Footerstyle.css">
+</head>
+<body>
+<div class="topnav">
+  <a class="active" href="index.html">Home</a>
+  <div class="dropdown">
+    <button class="dropbtn">Visas 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="Brazil.html">Brazil</a>
+      <a href="Thailand.html">Thailand</a>
+      <a href="Azerbaijan.html">Azerbaijan</a> 
+      <a href="FAQ.html">FAQ</a>
+      <a href="Terms.html">Terms & Conditions</a>
+      <a href="Schedule.html">Schedule Meeting</a>
+    </div>
+ </div>
+  
+  <a href="Aboutus.html">About Us</a>
+  <a href="Payment.html">Payment</a>
+  <a href="Contactus.html">Contact Us</a>
+  <div class="search-container">
+    <form action="search.php">
+      <input type="text" placeholder="Search.." name="search">
+      <button type="submit"><i class="fa fa-search"></i></button>
+    </form>
+  </div>
+</div>
+
+<br><br>
+
+<b>What types of visas do you assist with?</b>
+<p> Tourist,student, work visas.</p>
+<b>How do I know if I am eligible for a visa?</b>
+<p>Depends on your finances, physcial residency, nationality etc.</p>
+<b>How long does the visa approval process take?</b>
+<p>Anywhere between 2 to 15 working days depend on your destination, your country of orgin etc</p>
+<b>What documents do I need to apply for a visa?</b>
+<p>Passport, photos, financial statements, application form etc.</p>
+<b>Can you help with visa interviews?</b>
+<p>Yes we can help with interviews.</p>
+<b>Do I need to pay any fees upfront?</b>
+<p>Consultation is free. Full application support for $50. Comprehensive service with mock interviews and ongoing support for $100. <b>Referral Program:</b> Discounts for customers who refer others.</p>
+<b>What is your refund policy if my visa is denied?</b>
+<p>We will reimburse you 100% of the money, via you show proof of rejected visa.</p>
+<b>How can I track the status of my visa application?</b>
+<p>Clicking on visa application link or messaging us directly will provide you with instructions on how to track your status of visa application.</p>
+<b>What happens if my visa application is delayed or rejected?</b>
+<p>If visa is delayed we will help with guidance. If visa is rejected we will refund application support fee $50.</p>
+<b> Do you provide assistance with visa renewals or extensions?</b>
+<p>Yes.</p>
+
+<br><br><br>
+<div class="footer">
+<p>&#169; 2025 Korstrada Visa Connect LLC All Rights Reserved.</p>
+</div>
+</body>
+</html>  

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="Visa Business">
+<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+<meta name="author" content="Korstrada Visa Connect">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="Styles.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="Topnav.css">
+<link rel="stylesheet" href="Footerstyle.css">
+</head>
+<body>
+<div class="topnav">
+  <a class="active" href="index.html">Home</a>
+  <div class="dropdown">
+    <button class="dropbtn">Visas 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="Brazil.html">Brazil</a>
+      <a href="Thailand.html">Thailand</a>
+      <a href="Azerbaijan.html">Azerbaijan</a> 
+      <a href="FAQ.html">FAQ</a>
+      <a href="Terms.html">Terms & Conditions</a>
+      <a href="Schedule.html">Schedule Meeting</a>
+    </div>
+ </div>
+  
+  <a href="Aboutus.html">About Us</a>
+  <a href="Payment.html">Payment</a>
+  <a href="Contactus.html">Contact Us</a>
+  <div class="search-container">
+    <form action="/action_page.php">
+      <input type="text" placeholder="Search.." name="search">
+      <button type="submit"><i class="fa fa-search"></i></button>
+    </form>
+  </div>
+</div>
+
+
+
+<h1>Korstrada Visa Connect</h1>
+  <p>Featured Services:</p>
+  <br>
+  <p>Student Visa Assistance:</p>
+  <br>
+  <p>Guidance on selecting the right visa type based on educational goals.
+Assistance with admission letters, visa documentation, and interview preparation.
+Comprehensive pre-departure counseling.</p>
+<br>
+<p>Tourist Visa Assistance:</p>
+<br>
+<p>Hassle-free document verification for leisure or short-term travel.
+Customized itinerary planning and travel insurance assistance.
+Guidance on embassy appointments and visa processing timelines.</p>
+<br>
+<p>Work Visa Assistance:</p>
+<br>
+<p>Support for professionals seeking employment abroad.
+Assistance with job offer verification, work permits, and visa applications.
+Expert advice on compliance with host country immigration laws.</p>
+<br>
+<p>Overview of Services:</p>
+<br>
+<p>Korstrada Visa Connect offers end-to-end support, including initial consultations, documentation reviews, application submissions, and follow-up communication with consulates. Our dedicated team of immigration experts provides personalized advice, ensuring every client's unique needs are met efficiently and professionally.</p>
+<br>
+<p>Testimonials from Past Clients:</p>
+<br>
+<p>“Korstrada Visa Connect helped me secure my student visa with ease. Their step-by-step guidance made the entire process stress-free. I’m now pursuing my dream education abroad!” – Sarah T., Student.</p>
+<br>
+<p>“Thanks to their efficient tourist visa services, I had an unforgettable vacation in Europe. The team was friendly, knowledgeable, and highly reliable.” – Michael R., Tourist.</p>
+<br>
+<p>“As a working professional, navigating visa procedures seemed daunting. Korstrada Visa Connect ensured my application was flawless. I couldn’t have done it without them!” – Afia S., IT Consultant.</p>
+<br>
+<p>Whether you're aiming to unlock global educational opportunities, embark on an adventure abroad, or advance your career in a new country, Global Visa Solutions is your trusted partner every step of the way. Let us turn your international dreams into reality!</p>
+
+<br><br><br>
+<div class="footer">
+<p>&#169; 2025 Korstrada Visa Connect LLC All Rights Reserved.</p>
+</div>
+</body>
+</html>                        
